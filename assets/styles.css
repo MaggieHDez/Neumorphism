@@ -23,3 +23,16 @@ body{
     box-shadow: 14px 14px 20px hsl(210, 6%, 81%),-14px -14px 20px white;
 
 }
+
+.logo{
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    box-sizing: border-box;
+    background: url("/assets/img/Logo\ blue.svg");
+    background-size: 75%;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    box-shadow: 7px 7px 10px hsl(210, 6%, 81%),-7px -7px 10px white;
+}
